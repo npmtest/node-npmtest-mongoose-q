@@ -1,6 +1,6 @@
 # npmtest-mongoose-q
 
-#### test coverage for  [mongoose-q (v0.1.0)](https://github.com/iolo/mongoose-q#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoose-q.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoose-q) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoose-q.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoose-q)
+#### basic test coverage for  [mongoose-q (v0.1.0)](https://github.com/iolo/mongoose-q#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongoose-q.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongoose-q) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongoose-q.svg)](https://travis-ci.org/npmtest/node-npmtest-mongoose-q)
 
 #### kriskowal's Q support for mongoose
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-mongoose-q/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-mongoose-q/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-mongoose-q/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-mongoose-q/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mongoose-q/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mongoose-q/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-mongoose-q/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-mongoose-q/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mongoose-q/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mongoose-q/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-mongoose-q/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-mongoose-q/build/coverage.html/index.html)
 
@@ -84,7 +84,8 @@
         "url": "git://git@github.com/iolo/mongoose-q.git"
     },
     "scripts": {},
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
